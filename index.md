@@ -1,3 +1,11 @@
+---
+layout: default
+title: Matrix-Style Link Collection
+---
+
+<link rel="stylesheet" type="text/css" href="style.css">
+
+
 # 🌍 Tools & Apps to Make the World a Better Place
 
 This is a collection of apps, search engines, and software that help improve the world by reducing poverty, supporting the environment, and fighting social injustice – just by using them in your daily life!  
