@@ -2,6 +2,8 @@
 
 This is a collection of apps, search engines, and software that help improve the world by reducing poverty, supporting the environment, and fighting social injustice – just by using them in your daily life!  
 
+New Urls and updates will follow as quick as new alternatives are found. Stay tuned !
+
 ---
 
 ## **🌱 Environment & Sustainability**
