@@ -1,0 +1,45 @@
+body {
+    background-color: black;
+    color: #00ff00;
+    font-family: 'Courier New', monospace;
+    text-shadow: 0px 0px 5px #00ff00;
+}
+
+h1, h2, h3 {
+    color: #00ff00;
+    text-shadow: 0px 0px 10px #00ff00;
+}
+
+a {
+    color: #00ff00;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #00cc00;
+    text-shadow: 0px 0px 15px #00ff00;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    border: 1px solid #00ff00;
+}
+
+th, td {
+    border: 1px solid #00ff00;
+    padding: 8px;
+    text-align: left;
+}
+
+th {
+    background-color: #003300;
+    color: #00ff00;
+}
+
+code {
+    background-color: black;
+    color: #00ff00;
+    padding: 2px 5px;
+    font-family: 'Courier New', monospace;
+}
