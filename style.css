@@ -6,7 +6,7 @@ body {
     text-shadow: 0px 0px 5px #00ff00;
     margin: 0;
     padding: 0;
-    overflow: hidden; /* Kein Scrollen erlauben */
+    overflow: auto; /* Kein Scrollen erlauben */
 }
 
 /* Matrix Code Hintergrund-Canvas */
