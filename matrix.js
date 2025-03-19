@@ -14,7 +14,7 @@ document.addEventListener("DOMContentLoaded", function () {
         ctx.fillStyle = "rgba(0, 0, 0, 0.05)";
         ctx.fillRect(0, 0, canvas.width, canvas.height);
 
-        ctx.fillStyle = "#0F0";
+        ctx.fillStyle = "rgba(0, 255, 0, 0.4)";
         ctx.font = "20px Courier New";
 
         for (let i = 0; i < drops.length; i++) {
