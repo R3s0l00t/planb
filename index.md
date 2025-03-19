@@ -1,18 +1,24 @@
 ---
 layout: default
 title: Matrix-Style Link Collection
+permalink: /
 ---
 
-<link rel="stylesheet" type="text/css" href="style.css">
-
-
-# 🌍 Tools & Apps to Make the World a Better Place
-
-This is a collection of apps, search engines, and software that help improve the world by reducing poverty, supporting the environment, and fighting social injustice – just by using them in your daily life!  
-
-New Urls and updates will follow as quick as new alternatives are found. Stay tuned !
-
----
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Matrix-Style Link Collection</title>
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <script src="matrix.js"></script>
+</head>
+<body>
+    <h1>🌍 Tools & Apps to Make the World a Better Place</h1>
+    <p>This is a collection of apps, search engines, and software that help improve the world by reducing poverty, supporting the environment, and fighting social injustice – just by using them in your daily life!
+    New Urls and updates will follow as quick as new alternatives are found. Stay tuned ! </p>
+</body>
+</html>
 
 ## **🌱 Environment & Sustainability**
 
