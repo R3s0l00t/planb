@@ -1,68 +1,32 @@
-/* Matrix Hintergrund */
-html, body {
-    background-color: black;
-    color: #00ff00;
-    font-family: 'Courier New', monospace;
-    text-shadow: 0px 0px 5px #00ff00;
+/* Allgemeines Layout */
+body {
+    background-color: black;  /* Schwarzer Hintergrund */
+    color: white;             /* Helle Schrift */
+    font-family: Arial, sans-serif;
     margin: 0;
-    padding: 0;
-
-    height: auto;
-    min-height: 100vh;
-    overflow-y: auto; /* Scrollen aktivieren */
-    overflow-x: hidden; /* Kein seitliches Scrollen */
+    padding: 20px;
 }
 
-/* Matrix Code Hintergrund-Canvas */
-#matrixCanvas {
-    position: fixed;
-    top: 0;
-    left: 0;
-    width: 100vw;
-    height: 100vh;
-    z-index: -1;
-    background: black;
-}
-
-/* Text Styling */
-h1, h2, h3 {
-    color: #00ff00;
-    text-shadow: 0px 0px 10px #00ff00;
-}
-
+/* Links */
 a {
-    color: #00ff00;
+    color: cyan; /* Helle Farbe für Links */
     text-decoration: none;
-    font-weight: bold;
 }
 
 a:hover {
-    color: #00cc00;
-    text-shadow: 0px 0px 15px #00ff00;
+    text-decoration: underline;
 }
 
-/* Tabellen-Stil */
-table {
-    width: 100%;
-    border-collapse: collapse;
-    border: 1px solid #00ff00;
+/* Inhalte */
+h1, h2, h3 {
+    color: white; /* Überschriften ebenfalls hell */
 }
 
-th, td {
-    border: 1px solid #00ff00;
-    padding: 8px;
-    text-align: left;
+p {
+    line-height: 1.6;
 }
 
-th {
-    background-color: #003300;
-    color: #00ff00;
-}
-
-/* Code-Text */
-code {
-    background-color: black;
-    color: #00ff00;
-    padding: 2px 5px;
-    font-family: 'Courier New', monospace;
+/* Entferne Matrix-Animationen */
+canvas {
+    display: none; /* Falls die Matrix-Animation über ein <canvas> Element lief */
 }
